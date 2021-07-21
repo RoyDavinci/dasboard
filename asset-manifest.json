@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.e28e0e48.chunk.css",
+    "main.js": "/dashboard/static/js/main.fd9411f6.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.fd9411f6.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.33e7db28.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.33e7db28.js.map",
+    "static/js/2.8351e367.chunk.js": "/dashboard/static/js/2.8351e367.chunk.js",
+    "static/js/2.8351e367.chunk.js.map": "/dashboard/static/js/2.8351e367.chunk.js.map",
+    "static/js/3.1fe154da.chunk.js": "/dashboard/static/js/3.1fe154da.chunk.js",
+    "static/js/3.1fe154da.chunk.js.map": "/dashboard/static/js/3.1fe154da.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "static/css/main.e28e0e48.chunk.css.map": "/dashboard/static/css/main.e28e0e48.chunk.css.map",
+    "static/js/2.8351e367.chunk.js.LICENSE.txt": "/dashboard/static/js/2.8351e367.chunk.js.LICENSE.txt",
+    "static/media/pexels-kinkate-205926.550a84c6.jpg": "/dashboard/static/media/pexels-kinkate-205926.550a84c6.jpg",
+    "static/media/pexels-nur-alamin-5973137.79f27237.jpg": "/dashboard/static/media/pexels-nur-alamin-5973137.79f27237.jpg",
+    "static/media/pexels-tima-miroshnichenko-7567434.b3fdcf80.jpg": "/dashboard/static/media/pexels-tima-miroshnichenko-7567434.b3fdcf80.jpg",
+    "static/media/pexels-vitaly-vlasov-1606704.aab3cd10.jpg": "/dashboard/static/media/pexels-vitaly-vlasov-1606704.aab3cd10.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33e7db28.js",
+    "static/js/2.8351e367.chunk.js",
+    "static/css/main.e28e0e48.chunk.css",
+    "static/js/main.fd9411f6.chunk.js"
+  ]
+}
